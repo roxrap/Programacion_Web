@@ -18,6 +18,7 @@ CREATE TABLE `publicaciones` (
   `detalle` text NOT NULL,
   `url_imagen` varchar(255) NOT NULL,
   `fecha_publicacion` date NOT NULL
+  `autor` varchar(255) NOT NULL,
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
 2. Para poner en marcha este proyecto web, es necesario tener instaladas las siguientes dependencias:
@@ -39,14 +40,7 @@ CREATE TABLE `publicaciones` (
 Estas dependencias son esenciales para construir y ejecutar este proyecto web de manera efectiva. La forma más facil de instalarlas es ejecutando el siguiente comando en la terminal: npm i
 
 
-3. Configurar el archivo .env con los siguientes datos
-PORT=4000
-HOST_DB=localhost
-DIALECT_DB=mysql
-USER_DB=root
-PASS_DB=''
-NAME_DB=forodb
-PORT_DB=3307  # Cambia el puerto de 3306 a 3307. Esto aplica en mi entorno ya que mi mysql apunta al puerto 3307
+3. Modificar el archivo example.env por .env
 
 4. Ejecutar en la consola: node app.js
 
