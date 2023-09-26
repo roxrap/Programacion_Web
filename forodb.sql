@@ -32,7 +32,8 @@ CREATE TABLE `publicaciones` (
   `titulo` varchar(255) NOT NULL,
   `detalle` text NOT NULL,
   `url_imagen` varchar(255) NOT NULL,
-  `fecha_publicacion` date NOT NULL
+  `fecha_publicacion` date NOT NULL,
+  `autor` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
 --

@@ -36,7 +36,7 @@ CREATE TABLE `publicaciones` (
 
 - **sequelize**: ORM para la interacción con la base de datos SQL, facilita la definición de modelos y consultas SQL en JavaScript.
 
-Estas dependencias son esenciales para construir y ejecutar este proyecto web de manera efectiva.
+Estas dependencias son esenciales para construir y ejecutar este proyecto web de manera efectiva. La forma más facil de instalarlas es ejecutando el siguiente comando en la terminal: npm i
 
 
 3. Configurar el archivo .env con los siguientes datos
