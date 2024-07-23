@@ -3,9 +3,7 @@
 ## Proyecto Integrador
 
 
-En este repositorio se desarrolla un foro que permite a los usuarios escribir y presentar sus publicaciones de manera atractiva. El proyecto incluye un formulario de creación de posts que permite ingresar el título y contenido del post, el enlace (URL) de una imagen relevante de internet y asignar la fecha de creación. Las imágenes se muestran de manera óptima y el diseño general del foro es responsivo, proporcionando una experiencia agradable en diferentes dispositivos.
-
-Patra ello se utiliza tecnologías de programación web, como Node.js, EJS, MySQL y Sequelize. 
+En este repositorio se desarrolla un foro que permite a los usuarios escribir y presentar sus publicaciones de manera atractiva. Utilizando tecnologías de programación web. El proyecto incluye un formulario de creación de posts que permite ingresar el título y contenido del post, el enlace (URL) de una imagen relevante de internet y asignar la fecha de creación. Las imágenes se muestran de manera óptima y el diseño general del foro es responsivo, proporcionando una experiencia agradable en diferentes dispositivos.
 
 ![Express Nodejs](https://miro.medium.com/v2/resize:fit:1400/1*f7ztMaMM0etsFHpEfkdiwA.png)
 
