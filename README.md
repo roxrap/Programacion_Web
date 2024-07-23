@@ -1,14 +1,20 @@
-# Argentina Programa 4.0
+# Foro Atractivo y Responsivo
 
 ## Proyecto Integrador
 
 
-En este repositorio se desarrolla un foro en el que una persona pueda escribir y presentar sus publicaciones de manera atractiva. Se solicita especificamente desarrollar un formulario de creación de posts que permita ingresar el título y contenido del post, ingresar el enlance (URL) de una imagen de internet relevante y asignar la fecha de
-creación. Además, se espera que las imágenes se muestren de manera óptima y que el diseño general del foro sea responsivo, proporcionando una experiencia agradable en diferentes dispositivos.
+En este repositorio se desarrolla un foro que permite a los usuarios escribir y presentar sus publicaciones de manera atractiva. El proyecto incluye un formulario de creación de posts que permite ingresar el título y contenido del post, el enlace (URL) de una imagen relevante de internet y asignar la fecha de creación. Las imágenes se muestran de manera óptima y el diseño general del foro es responsivo, proporcionando una experiencia agradable en diferentes dispositivos.
 
 Patra ello se utiliza tecnologías de programación web, como Node.js, EJS, MySQL y Sequelize. 
 
 ![Express Nodejs](https://miro.medium.com/v2/resize:fit:1400/1*f7ztMaMM0etsFHpEfkdiwA.png)
+
+## Tecnologías Utilizadas
+* Node.js
+* Express
+* EJS
+* MySQL
+* Sequelize
 
 ## Instrucciones para la ejecución
 1. Crear la base de datos "forodb". En ella crear la siguiente tabla:
@@ -47,3 +53,8 @@ Estas dependencias son esenciales para construir y ejecutar este proyecto web de
 5. Acceder al navegador: http://localhost:4000
 
 
+## Contacto
+¡No dudes en ponerte en contacto conmigo si quieres hablar sobre proyectos interesantes, adoro los desafíos!
+
+Email: roxana.rapali@gmail.com
+Teléfono celular: +549 342 501 8700
